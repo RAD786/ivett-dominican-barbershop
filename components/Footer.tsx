@@ -10,7 +10,11 @@ export function Footer() {
             <p className="text-lg font-black text-ivory">Ivett Dominican Barber Shop</p>
             <p className="mt-2 text-sm leading-6 text-ivory/60">
               3565 Austell Rd Suite 1041, Marietta, GA 30008<br />
-              Located in Austell Market Fair
+              Located in Austell Market Fair<br />
+              Phone:{" "}
+              <a href="tel:7704399977" className="text-ivory underline decoration-flagRed underline-offset-4 transition hover:text-flagRed">
+                770-439-9977
+              </a>
             </p>
             <p className="mt-3 text-xs text-ivory/44">Copyright {new Date().getFullYear()} Ivett Dominican Barber Shop. All rights reserved.</p>
           </div>

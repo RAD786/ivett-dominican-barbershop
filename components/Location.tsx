@@ -16,6 +16,12 @@ export function Location() {
               3565 Austell Rd Suite 1041<br />
               Marietta, GA 30008
             </p>
+            <p className="mt-3 text-base font-semibold text-ivory/78">
+              Phone:{" "}
+              <a href="tel:7704399977" className="text-white underline decoration-flagRed underline-offset-4 transition hover:text-flagRed">
+                770-439-9977
+              </a>
+            </p>
             <p className="mt-3 font-semibold text-flagRed">Located in Austell Market Fair</p>
           </div>
           <div className="mt-7 flex flex-col gap-3 sm:flex-row">

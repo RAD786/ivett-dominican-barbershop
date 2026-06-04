@@ -28,6 +28,12 @@ export function BookingCta() {
             Get Directions
           </a>
         </div>
+        <p className="mt-5 text-sm font-semibold text-ivory/70">
+          Or call{" "}
+          <a href="tel:7704399977" className="text-white underline decoration-flagRed underline-offset-4 transition hover:text-flagRed">
+            770-439-9977
+          </a>
+        </p>
       </div>
     </section>
   );

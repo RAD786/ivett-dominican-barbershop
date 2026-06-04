@@ -42,6 +42,12 @@ export function Hero() {
               Get Directions
             </a>
           </div>
+          <p className="mt-5 text-sm font-semibold text-ivory/68">
+            Prefer to call?{" "}
+            <a href="tel:7704399977" className="text-white underline decoration-flagRed underline-offset-4 transition hover:text-flagRed">
+              770-439-9977
+            </a>
+          </p>
         </div>
 
         <div className="relative">
