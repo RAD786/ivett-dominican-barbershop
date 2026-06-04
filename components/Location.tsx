@@ -42,7 +42,7 @@ export function Location() {
           </div>
         </div>
 
-        <div className="relative min-h-80 overflow-hidden rounded-lg border border-flagBlue/60 bg-black shadow-[0_22px_70px_rgba(0,0,0,0.32)] lg:min-h-96">
+        <div className="relative min-h-80 overflow-hidden rounded-lg border border-flagBlue/60 bg-coal shadow-[0_22px_70px_rgba(0,0,0,0.32)] lg:min-h-96">
           <Image
             src="/images/outside-shop.jpg"
             alt="Exterior sign for Ivett Dominican Barber Shop"

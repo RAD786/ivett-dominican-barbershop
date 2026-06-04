@@ -9,9 +9,9 @@ const config: Config = {
   theme: {
     extend: {
       colors: {
-        ink: "#080808",
-        coal: "#121212",
-        smoke: "#1c1b1a",
+        ink: "#061733",
+        coal: "#082047",
+        smoke: "#0A2A5C",
         ivory: "#f7f1e8",
         flagBlue: "#002D62",
         flagRed: "#CE1126",

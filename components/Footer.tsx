@@ -2,7 +2,7 @@ import Image from "next/image";
 
 export function Footer() {
   return (
-    <footer className="border-t border-white/10 bg-black px-4 py-10 sm:px-8">
+    <footer className="border-t border-white/10 bg-ink px-4 py-10 sm:px-8">
       <div className="mx-auto flex max-w-7xl flex-col gap-6 md:flex-row md:items-center md:justify-between">
         <div className="flex gap-4">
           <Image src="/images/ivett-logo.png" alt="" width={54} height={54} className="h-14 w-14 rounded-md bg-white object-contain p-1" />
